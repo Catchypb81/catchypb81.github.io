@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Marcus Schutte built the Catchy app as [open source/free/freemium/ad-supported/commercial] app. This SERVICE is provided by Marcus Schutte at no cost and is intended for use as is.
+PB81 Development built the Catchy app as free app. This SERVICE is provided by PB81 Development at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
